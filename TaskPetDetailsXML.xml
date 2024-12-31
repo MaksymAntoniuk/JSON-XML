@@ -1,0 +1,51 @@
+<petDetails>
+         <uploadPhoto>
+             <label>Upload Photo</label>
+             <inputType>fele</inputType>
+             <required></required>
+         </uploadPhoto>
+         <name>
+             <label>Enter Pet's Name</label>
+             <placeholder>Enter your pets name</placeholder>
+             <inputType>text</inputType>
+             <required></required>
+         </name>
+         <species>
+             <label>Select Pet Species</label>
+             <placeholder>Select your pet species</placeholder>
+             <inputType>dropdown</inputType>
+             <options>Dog</options>
+             <options>Cat</options>
+             <options>Bird</options>
+             <selected>false</selected>
+             <required></required>
+         </species>
+         <age>
+             <label>Enter Age</label>
+             <placeholder>Enter age of your pet</placeholder>
+             <inputType>text</inputType>
+             <required></required>
+         </age>
+         <weight>
+             <label>Enter Weight</label>
+             <placeholder>Enter weight of your pet</placeholder>
+             <inputType>text</inputType>
+             <unit>kg</unit>
+             <required></required>
+         </weight>
+         <gender>
+             <label>Select Gender</label>
+             <inputType>button-group</inputType>
+             <button-group>
+                 <label>Male</label>
+                 <value>Male</value>
+                 <selected>false</selected>
+             </button-group>
+             <button-group>
+                 <label>Female</label>
+                 <value>Female</value>
+                 <selected>false</selected>
+             </button-group>
+             <required></required>
+         </gender>
+     </petDetails>

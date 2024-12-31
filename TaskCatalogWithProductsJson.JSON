@@ -1,0 +1,32 @@
+{
+    "catalog": [
+        {
+            "name": {
+                "Polish": "Samochód Mercedes",
+                "English": "Car Mercedes"
+            },
+            "reference": "MB1",
+            "dimensions": {
+                "length": 4500,
+                "width": 1800,
+                "high": 1468
+            },
+            "color": "Red",
+            "year": "2020"
+        },
+        {
+            "name": {
+                "Polish": "Bagzanik",
+                "English": "Trunk"
+            },
+            "reference": "TR1",
+            "dimensions": {
+                "length": 100,
+                "width": 90,
+                "high": 45
+            },
+            "color": "Red",
+            "year": "2020"
+        }
+    ]
+}

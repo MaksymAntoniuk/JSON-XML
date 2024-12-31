@@ -1,0 +1,33 @@
+<Catalog>
+
+    <Product>
+        <name>
+            <Polish>Samochód Mercedes</Polish>
+            <English>Car Mercedes</English>
+        </name>
+        <reference>MB1</reference>
+        <dimensions>
+            <length>4500</length>
+            <width>1800</width>
+            <high>1468</high>
+        </dimensions>
+        <color>Red</color>
+        <year>2020</year>
+    </Product>
+
+    <Product>
+        <name>
+            <Polish>Bagzanik</Polish>
+            <English>Trunk</English>
+        </name>
+        <reference>TR1</reference>
+        <dimensions>
+            <length>100</length>
+            <width>90</width>
+            <high>45</high>
+        </dimensions>
+        <color>Red</color>
+        <year>2020</year>
+    </Product>
+
+</Catalog>

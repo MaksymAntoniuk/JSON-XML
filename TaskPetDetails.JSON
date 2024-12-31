@@ -1,0 +1,56 @@
+{
+    "petDetails": {
+        "uploadPhoto": {
+            "label": "Upload Photo",
+            "inputType": "file",
+            "required": null
+        },
+        "name": {
+            "label": "Enter Pet's Name",
+            "placeholder": "Enter your pets name",
+            "inputType": "text",
+            "required": null
+        },
+        "species": {
+            "label": "Select Pet Species",
+            "placeholder": "Select your pet species",
+            "inputType": "dropdown",
+            "options": [
+                "Dog",
+                "Cat",
+                "Bird"
+            ],
+            "required": null
+        },
+        "age": {
+            "label": "Enter Age",
+            "placeholder": "Enter age of your pet",
+            "inputType": "text",
+            "required": null
+        },
+        "weight": {
+            "label": "Enter Weight",
+            "placeholder": "Enter weight of your pet",
+            "inputType": "text",
+            "unit": "kg",
+            "required": null
+        },
+        "gender": {
+            "label": "Select Gender",
+            "inputType": "button-group",
+            "button-group": [
+                {
+                    "label": "Male",
+                    "value": "Male",
+                    "selected": false
+                },
+                {
+                    "label": "Female",
+                    "value": "Female",
+                    "selected": false
+                }
+            ],
+            "required": null
+        }
+    }
+}

@@ -1,56 +1,10 @@
 {
     "petDetails": {
-        "uploadPhoto": {
-            "label": "Upload Photo",
-            "inputType": "file",
-            "required": null
-        },
-        "name": {
-            "label": "Enter Pet's Name",
-            "placeholder": "Enter your pets name",
-            "inputType": "text",
-            "required": null
-        },
-        "species": {
-            "label": "Select Pet Species",
-            "placeholder": "Select your pet species",
-            "inputType": "dropdown",
-            "options": [
-                "Dog",
-                "Cat",
-                "Bird"
-            ],
-            "required": null
-        },
-        "age": {
-            "label": "Enter Age",
-            "placeholder": "Enter age of your pet",
-            "inputType": "text",
-            "required": null
-        },
-        "weight": {
-            "label": "Enter Weight",
-            "placeholder": "Enter weight of your pet",
-            "inputType": "text",
-            "unit": "kg",
-            "required": null
-        },
-        "gender": {
-            "label": "Select Gender",
-            "inputType": "button-group",
-            "button-group": [
-                {
-                    "label": "Male",
-                    "value": "Male",
-                    "selected": false
-                },
-                {
-                    "label": "Female",
-                    "value": "Female",
-                    "selected": false
-                }
-            ],
-            "required": null
-        }
+        "uploadPhotoUrl": "https://vitapet.com/media/weihypok/fun-facts-about-cats-1240x640.jpg?anchor=center&mode=crop&width=1240&rnd=132604160011730000",
+        "name": "Catty",
+        "species": "Cat",
+        "age": 1,
+        "weight": 2,
+        "gender": "Female"
     }
 }
